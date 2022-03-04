@@ -1,0 +1,11 @@
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\bin\Debug\project1.exe.config
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\bin\Debug\project1.exe
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\bin\Debug\project1.pdb
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.Form1.resources
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.exe
+C:\tasyrikanurul\tasyrika\praktikum_kpl\modul2\project1\project1\obj\Debug\project1.pdb
